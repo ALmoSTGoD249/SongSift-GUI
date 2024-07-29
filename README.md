@@ -60,7 +60,11 @@ Upon running the application, you will be presented with a search interface. Ent
 ## Screenshots
 
 ![image](https://github.com/user-attachments/assets/e22582cb-97dc-49bd-abd8-ed46aaa75fd2)
+
+
 ![image](https://github.com/user-attachments/assets/e5f2aba4-d49b-4ae0-9efb-f79d486d09c5)
+
+
 ![image](https://github.com/user-attachments/assets/6a399297-f459-4f68-a3c8-5993f8df77de)
 
 
